@@ -1,1 +1,1 @@
-# Online_Store_Sales_Report_and_Forecasting
+# Created an interactive Power BI dashboard for sales reporting and forecasting of an online store, leveraging Excel data and DAX calculations for insightful visualizations and predictive analysis. This project enhanced data-driven decision-making by providing clear insights into sales trends and future projections.
